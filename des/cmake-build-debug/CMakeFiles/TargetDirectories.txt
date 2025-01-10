@@ -1,0 +1,3 @@
+C:/Users/krasa/OneDrive/des/cmake-build-debug/CMakeFiles/des.dir
+C:/Users/krasa/OneDrive/des/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krasa/OneDrive/des/cmake-build-debug/CMakeFiles/rebuild_cache.dir
